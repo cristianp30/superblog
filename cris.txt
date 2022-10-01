@@ -1,3 +1,4 @@
 esta es la historia de cristian 
 es estudiante de platzi y le gusta mucho aprender
 en este momento esta aprendiendo git
+tiene 28 años y espera que para sus 29 ya tenga un cargo relacionado con el software
