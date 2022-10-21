@@ -62,3 +62,12 @@ body
     border-radius: 15px;   
 }
 
+#footer_principal
+{
+    display: flex;
+    width: 70%;
+    background-color: #1525;
+    border: 1px solid gray;
+    padding: 1rem;
+    margin: 0 auto;
+}
