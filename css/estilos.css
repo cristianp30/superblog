@@ -71,3 +71,26 @@ body
     padding: 1rem;
     margin: 0 auto;
 }
+
+#footer_listado
+{
+    flex: 50%;
+    color: black;
+}
+
+#footer_listado ul  
+{
+    list-style-type: none; 
+    vertical-align: middle;   
+}
+
+#quienes_somos
+{
+    flex: 50%;
+    color: black;
+}
+#quienes_somos #logo_footer
+{
+    width: 10rem;
+    height: 5rem;
+}
